@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-11T11:46:13.766844Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-11T11:46:01.712195Z",
+      "mimetype": "image/png",
+      "name": "ilustracionRedAmigos.png",
+      "path": "assets/images/ilustracionRedAmigos.png",
+      "size": 191431,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-11T11:46:13.766844Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-11T11:46:13.766844Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "assets/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
