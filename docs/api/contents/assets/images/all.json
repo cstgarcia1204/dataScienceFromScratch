@@ -2,11 +2,11 @@
   "content": [
     {
       "content": null,
-      "created": "2026-08-11T12:01:58.936910Z",
+      "created": "2026-08-11T12:09:30.368336Z",
       "format": null,
       "hash": null,
       "hash_algorithm": null,
-      "last_modified": "2026-08-11T12:01:46.628129Z",
+      "last_modified": "2026-08-11T12:09:19.071071Z",
       "mimetype": "image/png",
       "name": "ilustracionRedAmigos.png",
       "path": "assets/images/ilustracionRedAmigos.png",
@@ -15,11 +15,11 @@
       "writable": true
     }
   ],
-  "created": "2026-08-11T12:01:58.936910Z",
+  "created": "2026-08-11T12:09:30.368336Z",
   "format": "json",
   "hash": null,
   "hash_algorithm": null,
-  "last_modified": "2026-08-11T12:01:58.936910Z",
+  "last_modified": "2026-08-11T12:09:30.368336Z",
   "mimetype": null,
   "name": "images",
   "path": "assets/images",
