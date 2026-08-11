@@ -10,6 +10,11 @@
     "federated_extensions": [
       {
         "extension": "./extension",
+        "load": "static/remoteEntry.1535fa47514890d8.js",
+        "name": "@jupyterlite/pyodide-kernel-extension"
+      },
+      {
+        "extension": "./extension",
         "load": "static/remoteEntry.5cbb9d2323598fbda535.js",
         "name": "jupyterlab_pygments",
         "style": "./style"
@@ -391,6 +396,13 @@
     "fullLabextensionsUrl": "./extensions",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
+    "litePluginSettings": {
+      "@jupyterlite/pyodide-kernel-extension:kernel": {
+        "pipliteUrls": [
+          "./extensions/@jupyterlite/pyodide-kernel-extension/static/pypi/all.json?sha256=29fd8c803116f3780a617fc2a3851681a4d44ab695f5384738ffc7ebb5cef7d5"
+        ]
+      }
+    },
     "versionInfo": {
       "@jupyter-notebook/application": {
         "label": "Jupyter Notebook",
