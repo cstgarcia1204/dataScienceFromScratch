@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2026-08-11T11:46:13.766844Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2026-08-11T11:46:13.766844Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "assets/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2026-08-11T11:46:13.766283Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2026-08-11T11:46:13.766283Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
