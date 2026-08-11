@@ -218,3 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 #Exclude vscode configs
 .vscode
+#Exclude githubActions content
+docs/
